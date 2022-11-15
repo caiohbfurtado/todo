@@ -35,7 +35,7 @@ Para usar Todo, siga estas etapas:
 bash:
 ```
 # Acesse a pasta do projeto no terminal/cmd
-$ cd imhere
+$ cd todo
 # Execute a aplicação em modo de desenvolvimento
 $ expo start
 # O servidor inciará na porta:19000
